@@ -23,7 +23,4 @@ Python 3.6 یا بالاتر
 
 text
 pip install matplotlib arabic-reshaper python-bidi openpyxl
-🚀 نحوه اجرا
-فایل اکسل خود را با نام data.xlsx در پوشه پروژه قرار دهید
-
 
